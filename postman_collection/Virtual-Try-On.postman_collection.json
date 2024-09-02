@@ -1,0 +1,57 @@
+{
+	"info": {
+		"_postman_id": "15b381bc-654c-46fd-9ef5-632b5a952fea",
+		"name": "Virtual-Try-On",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33368359"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:5000/tryon",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "person_img",
+							"type": "file",
+							"src": "/C:/Users/dagac/Desktop/github/Virtual-Try-On/try_img/person_img/my_photo.jpg"
+						},
+						{
+							"key": "garment_img",
+							"type": "file",
+							"src": "/C:/Users/dagac/Desktop/github/Virtual-Try-On/try_img/garment_img/jacket_v2.jpg"
+						},
+						{
+							"key": "seed",
+							"value": "0",
+							"type": "text"
+						},
+						{
+							"key": "randomize_seed",
+							"value": "true",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/tryon",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"tryon"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

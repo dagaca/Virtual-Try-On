@@ -1,0 +1,5 @@
+Flask==2.2.5
+Werkzeug==2.2.3
+gradio_client
+flasgger==0.9.7.1
+python-dotenv==0.21.0

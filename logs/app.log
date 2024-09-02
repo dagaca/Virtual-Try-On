@@ -1,0 +1,507 @@
+2024-09-02 22:24:43,822 - app - INFO - Request URL: http://127.0.0.1:5000/apidocs/
+2024-09-02 22:24:43,823 - app - INFO - Request Method: GET
+2024-09-02 22:24:43,831 - app - INFO - Request Data: b''
+2024-09-02 22:24:43,869 - app - INFO - Response Status: 200 OK
+2024-09-02 22:24:43,941 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui.css
+2024-09-02 22:24:43,943 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-bundle.js
+2024-09-02 22:24:43,950 - app - INFO - Request Method: GET
+2024-09-02 22:24:43,952 - app - INFO - Request Method: GET
+2024-09-02 22:24:43,953 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-standalone-preset.js
+2024-09-02 22:24:43,955 - app - INFO - Request Data: b''
+2024-09-02 22:24:43,956 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/lib/jquery.min.js
+2024-09-02 22:24:43,957 - app - INFO - Request Data: b''
+2024-09-02 22:24:43,958 - app - INFO - Request Method: GET
+2024-09-02 22:24:43,961 - app - INFO - Request Method: GET
+2024-09-02 22:24:43,964 - app - INFO - Request Data: b''
+2024-09-02 22:24:43,965 - app - INFO - Request Data: b''
+2024-09-02 22:24:44,320 - app - INFO - Response Status: 200 OK
+2024-09-02 22:24:44,323 - app - INFO - Response Status: 200 OK
+2024-09-02 22:24:44,346 - app - INFO - Response Status: 200 OK
+2024-09-02 22:24:44,347 - app - INFO - Response Status: 200 OK
+2024-09-02 22:24:44,518 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-09-02 22:24:44,519 - app - INFO - Request Method: GET
+2024-09-02 22:24:44,520 - app - INFO - Request Data: b''
+2024-09-02 22:24:44,523 - app - INFO - Response Status: 200 OK
+2024-09-02 22:24:44,629 - app - INFO - Request URL: http://127.0.0.1:5000/apispec_1.json
+2024-09-02 22:24:44,631 - app - INFO - Request Method: GET
+2024-09-02 22:24:44,633 - app - INFO - Request Data: b''
+2024-09-02 22:24:44,643 - app - INFO - Response Status: 200 OK
+2024-09-02 22:24:44,647 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-09-02 22:24:44,649 - app - INFO - Request Method: GET
+2024-09-02 22:24:44,650 - app - INFO - Request Data: b''
+2024-09-02 22:24:44,652 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:25:53,373 - app - INFO - Request URL: http://127.0.0.1:5000/apidocs/
+2024-09-02 22:25:53,374 - app - INFO - Request Method: GET
+2024-09-02 22:25:53,382 - app - INFO - Request Data: b''
+2024-09-02 22:25:53,403 - app - INFO - Response Status: 200 OK
+2024-09-02 22:25:53,437 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui.css
+2024-09-02 22:25:53,438 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-bundle.js
+2024-09-02 22:25:53,440 - app - INFO - Request Method: GET
+2024-09-02 22:25:53,444 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-standalone-preset.js
+2024-09-02 22:25:53,445 - app - INFO - Request Method: GET
+2024-09-02 22:25:53,447 - app - INFO - Request Data: b''
+2024-09-02 22:25:53,448 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/lib/jquery.min.js
+2024-09-02 22:25:53,449 - app - INFO - Request Method: GET
+2024-09-02 22:25:53,450 - app - INFO - Request Data: b''
+2024-09-02 22:25:53,452 - app - INFO - Request Method: GET
+2024-09-02 22:25:53,453 - app - INFO - Request Data: b''
+2024-09-02 22:25:53,457 - app - INFO - Request Data: b''
+2024-09-02 22:25:53,738 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:25:53,788 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:25:53,794 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:25:53,803 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:25:53,863 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-09-02 22:25:53,864 - app - INFO - Request Method: GET
+2024-09-02 22:25:53,866 - app - INFO - Request Data: b''
+2024-09-02 22:25:53,868 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:25:53,956 - app - INFO - Request URL: http://127.0.0.1:5000/apispec_1.json
+2024-09-02 22:25:53,958 - app - INFO - Request Method: GET
+2024-09-02 22:25:53,960 - app - INFO - Request Data: b''
+2024-09-02 22:25:53,975 - app - INFO - Response Status: 200 OK
+2024-09-02 22:25:53,976 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-09-02 22:25:53,980 - app - INFO - Request Method: GET
+2024-09-02 22:25:53,982 - app - INFO - Request Data: b''
+2024-09-02 22:25:53,985 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:28:21,370 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:28:21,371 - app - INFO - Request Method: POST
+2024-09-02 22:28:21,375 - app - INFO - Request Data: b''
+2024-09-02 22:29:42,441 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:29:42,442 - app - INFO - Request Method: POST
+2024-09-02 22:29:42,450 - app - INFO - Request Data: b''
+2024-09-02 22:33:30,811 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:33:30,812 - app - INFO - Request Method: POST
+2024-09-02 22:33:30,816 - app - INFO - Request Data: b''
+2024-09-02 22:34:01,834 - app - ERROR - Unexpected error: a bytes-like object is required, not 'str'
+2024-09-02 22:34:01,836 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 22:36:26,930 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:36:26,931 - app - INFO - Request Method: POST
+2024-09-02 22:36:26,935 - app - INFO - Request Data: b''
+2024-09-02 22:36:56,620 - app - ERROR - TypeError: a bytes-like object is required, not 'str' - Ensure you are writing binary data where expected.
+2024-09-02 22:36:56,624 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 22:39:12,544 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:39:12,545 - app - INFO - Request Method: POST
+2024-09-02 22:39:12,550 - app - INFO - Request Data: b''
+2024-09-02 22:39:47,220 - app - INFO - Result type: <class 'str'>
+2024-09-02 22:39:47,221 - app - INFO - Result content: C:\Users\dagac\AppData\Local\Temp\gradio\82dbee15e8f9e3e26529a41f31b9829f1dae9b8835f79e3f6608b6a9532af6ca\image.webp
+2024-09-02 22:39:47,224 - app - ERROR - Unexpected error: [WinError 3] Sistem belirtilen yolu bulamýyor: 'c:\\users\\dagac\\desktop\\github\\virtual-try-on\\app\\results\\tryon_result.png'
+2024-09-02 22:39:47,227 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 22:46:56,460 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:46:56,461 - app - INFO - Request Method: POST
+2024-09-02 22:46:56,465 - app - INFO - Request Data: b''
+2024-09-02 22:47:27,564 - app - ERROR - TypeError: a bytes-like object is required, not 'str'
+2024-09-02 22:47:27,565 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 22:49:33,496 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:49:33,497 - app - INFO - Request Method: POST
+2024-09-02 22:49:33,503 - app - INFO - Request Data: b''
+2024-09-02 22:49:33,507 - app - INFO - Saved uploaded file to temporary location: C:\Users\dagac\AppData\Local\Temp\tmpnrgxoyrp
+2024-09-02 22:49:33,511 - app - INFO - Saved uploaded file to temporary location: C:\Users\dagac\AppData\Local\Temp\tmpsse7ed_o
+2024-09-02 22:49:33,512 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\AppData\Local\Temp\tmpnrgxoyrp, garment_img_path: C:\Users\dagac\AppData\Local\Temp\tmpsse7ed_o
+2024-09-02 22:50:04,047 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 22:50:04,048 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\5742ba8698829232950f37e424c810c28e75359ed855320cbb78f5e34f321c28\image.webp
+2024-09-02 22:50:04,049 - app - INFO - Result saved to: results\tryon_result.png
+2024-09-02 22:50:04,052 - app - ERROR - Unexpected error: [WinError 3] Sistem belirtilen yolu bulamýyor: 'c:\\users\\dagac\\desktop\\github\\virtual-try-on\\app\\results\\tryon_result.png'
+2024-09-02 22:50:04,053 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 22:50:46,505 - app - INFO - Request URL: http://127.0.0.1:5000/apidocs/
+2024-09-02 22:50:46,509 - app - INFO - Request Method: GET
+2024-09-02 22:50:46,513 - app - INFO - Request Data: b''
+2024-09-02 22:50:46,538 - app - INFO - Response Status: 200 OK
+2024-09-02 22:50:46,579 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui.css
+2024-09-02 22:50:46,581 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-bundle.js
+2024-09-02 22:50:46,587 - app - INFO - Request Method: GET
+2024-09-02 22:50:46,588 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-standalone-preset.js
+2024-09-02 22:50:46,589 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/lib/jquery.min.js
+2024-09-02 22:50:46,590 - app - INFO - Request Method: GET
+2024-09-02 22:50:46,593 - app - INFO - Request Data: b''
+2024-09-02 22:50:46,594 - app - INFO - Request Method: GET
+2024-09-02 22:50:46,595 - app - INFO - Request Method: GET
+2024-09-02 22:50:46,596 - app - INFO - Request Data: b''
+2024-09-02 22:50:46,599 - app - INFO - Request Data: b''
+2024-09-02 22:50:46,600 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:50:46,601 - app - INFO - Request Data: b''
+2024-09-02 22:50:46,604 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:50:46,606 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:50:46,609 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:50:46,843 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-09-02 22:50:46,846 - app - INFO - Request Method: GET
+2024-09-02 22:50:46,847 - app - INFO - Request Data: b''
+2024-09-02 22:50:46,850 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:50:46,953 - app - INFO - Request URL: http://127.0.0.1:5000/apispec_1.json
+2024-09-02 22:50:46,954 - app - INFO - Request Method: GET
+2024-09-02 22:50:46,956 - app - INFO - Request Data: b''
+2024-09-02 22:50:46,960 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-09-02 22:50:46,968 - app - INFO - Response Status: 200 OK
+2024-09-02 22:50:46,970 - app - INFO - Request Method: GET
+2024-09-02 22:50:46,973 - app - INFO - Request Data: b''
+2024-09-02 22:50:46,976 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 22:51:17,342 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:51:17,343 - app - INFO - Request Method: POST
+2024-09-02 22:51:17,347 - app - INFO - Request Data: b''
+2024-09-02 22:51:17,351 - app - INFO - Saved uploaded file to temporary location: C:\Users\dagac\AppData\Local\Temp\tmpq2eyr_c4
+2024-09-02 22:51:17,354 - app - INFO - Saved uploaded file to temporary location: C:\Users\dagac\AppData\Local\Temp\tmp44gi6wfn
+2024-09-02 22:51:17,356 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\AppData\Local\Temp\tmpq2eyr_c4, garment_img_path: C:\Users\dagac\AppData\Local\Temp\tmp44gi6wfn
+2024-09-02 22:51:47,339 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 22:51:47,339 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\2a8aaf8c50e7d150f4fa6fd94f3391a50a5201a994883ca606e7a095448b2e97\image.webp
+2024-09-02 22:51:47,342 - app - INFO - Result saved to: results\tryon_result.png
+2024-09-02 22:51:47,344 - app - ERROR - Unexpected error: [WinError 3] Sistem belirtilen yolu bulamýyor: 'c:\\users\\dagac\\desktop\\github\\virtual-try-on\\app\\results\\tryon_result.png'
+2024-09-02 22:51:47,345 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 22:53:53,062 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 22:53:53,063 - app - INFO - Request Method: POST
+2024-09-02 22:53:53,066 - app - INFO - Request Data: b''
+2024-09-02 22:53:53,070 - app - INFO - Received try-on request.
+2024-09-02 22:53:53,072 - app - INFO - Saving uploaded images.
+2024-09-02 22:53:53,074 - app - INFO - Saved uploaded file to temporary location: C:\Users\dagac\AppData\Local\Temp\tmp5p2yl25h
+2024-09-02 22:53:53,077 - app - INFO - Saved uploaded file to temporary location: C:\Users\dagac\AppData\Local\Temp\tmpf8ebbdiw
+2024-09-02 22:53:53,079 - app - INFO - Person image saved to C:\Users\dagac\AppData\Local\Temp\tmp5p2yl25h, Garment image saved to C:\Users\dagac\AppData\Local\Temp\tmpf8ebbdiw
+2024-09-02 22:53:53,080 - app - INFO - Calling virtual try-on API.
+2024-09-02 22:53:53,081 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\AppData\Local\Temp\tmp5p2yl25h, garment_img_path: C:\Users\dagac\AppData\Local\Temp\tmpf8ebbdiw
+2024-09-02 22:54:23,488 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 22:54:23,488 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\66172249115ad1ddd23e5127473ad12f098718f04bd17ac73e466346dd83fb1d\image.webp
+2024-09-02 22:54:23,489 - app - INFO - API call successful.
+2024-09-02 22:54:23,490 - app - INFO - Saving the result image.
+2024-09-02 22:54:23,492 - app - INFO - Result saved to: results\tryon_result.png
+2024-09-02 22:54:23,495 - app - INFO - Result image saved to results\tryon_result.png
+2024-09-02 22:54:23,495 - app - INFO - Sending result file to client.
+2024-09-02 22:54:23,496 - app - ERROR - FileNotFoundError: [WinError 3] Sistem belirtilen yolu bulamýyor: 'c:\\users\\dagac\\desktop\\github\\virtual-try-on\\app\\results\\tryon_result.png'
+2024-09-02 22:54:23,498 - app - INFO - Temporary files cleaned up.
+2024-09-02 22:54:23,499 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 23:02:21,723 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:02:21,724 - app - INFO - Request Method: POST
+2024-09-02 23:02:21,729 - app - INFO - Request Data: b''
+2024-09-02 23:02:21,730 - app - INFO - Received try-on request.
+2024-09-02 23:02:21,734 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_hoin872_.tmp
+2024-09-02 23:02:21,738 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_kl0uumlj.tmp
+2024-09-02 23:02:21,739 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_hoin872_.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_kl0uumlj.tmp
+2024-09-02 23:02:21,741 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:02:21,742 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_hoin872_.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_kl0uumlj.tmp
+2024-09-02 23:02:54,264 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:02:54,265 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\4778dabc6daea850c33330dcef5e87c6a5446f4af61a383adfef573cf481a09c\image.webp
+2024-09-02 23:02:54,267 - app - INFO - API call successful.
+2024-09-02 23:02:54,269 - app - INFO - Saving the result image.
+2024-09-02 23:02:54,270 - app - INFO - Result saved to: results\ada89080-67fa-4b2a-997b-b13e38059446.png
+2024-09-02 23:02:54,272 - app - INFO - Result image saved to results\ada89080-67fa-4b2a-997b-b13e38059446.png
+2024-09-02 23:02:54,272 - app - INFO - Sending result file to client.
+2024-09-02 23:02:54,274 - app - ERROR - FileNotFoundError: [WinError 3] Sistem belirtilen yolu bulamýyor: 'c:\\users\\dagac\\desktop\\github\\virtual-try-on\\app\\results\\ada89080-67fa-4b2a-997b-b13e38059446.png'
+2024-09-02 23:02:54,275 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 23:04:35,908 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:04:35,909 - app - INFO - Request Method: POST
+2024-09-02 23:04:35,914 - app - INFO - Request Data: b''
+2024-09-02 23:04:35,915 - app - INFO - Received try-on request.
+2024-09-02 23:04:35,919 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_mghj7q03.tmp
+2024-09-02 23:04:35,922 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_p1zy2x7g.tmp
+2024-09-02 23:04:35,923 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_mghj7q03.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_p1zy2x7g.tmp
+2024-09-02 23:04:35,924 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:04:35,926 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_mghj7q03.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_p1zy2x7g.tmp
+2024-09-02 23:05:07,321 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:05:07,321 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\1642be5e0b9f4451ac89f4465d0cc71f8509ab15741e10de0dad32f9d84835bd\image.webp
+2024-09-02 23:05:07,321 - app - INFO - API call successful.
+2024-09-02 23:05:07,322 - app - INFO - Saving the result image.
+2024-09-02 23:05:07,326 - app - INFO - Result saved to: results\653d43c5-5d00-4472-854e-bf6c19fdfb78.png
+2024-09-02 23:05:07,326 - app - INFO - Result image saved to results\653d43c5-5d00-4472-854e-bf6c19fdfb78.png
+2024-09-02 23:05:07,326 - app - INFO - Sending result file to client.
+2024-09-02 23:05:07,329 - app - ERROR - FileNotFoundError: [WinError 3] Sistem belirtilen yolu bulamýyor: 'c:\\users\\dagac\\desktop\\github\\virtual-try-on\\app\\results\\653d43c5-5d00-4472-854e-bf6c19fdfb78.png'
+2024-09-02 23:05:07,330 - app - INFO - Response Status: 500 INTERNAL SERVER ERROR
+2024-09-02 23:06:35,831 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:06:35,832 - app - INFO - Request Method: POST
+2024-09-02 23:06:35,837 - app - INFO - Request Data: b''
+2024-09-02 23:06:35,838 - app - INFO - Received try-on request.
+2024-09-02 23:06:35,842 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_9url2e0r.tmp
+2024-09-02 23:06:35,845 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_xxgv6haf.tmp
+2024-09-02 23:06:35,846 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_9url2e0r.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_xxgv6haf.tmp
+2024-09-02 23:06:35,847 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:06:35,849 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_9url2e0r.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_xxgv6haf.tmp
+2024-09-02 23:07:06,027 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:07:06,028 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\f95d40befb25de66fba2e81c8f5db774ec612cd65f9a19a62b336dc71610cc60\image.webp
+2024-09-02 23:07:06,029 - app - INFO - API call successful.
+2024-09-02 23:07:06,030 - app - INFO - Saving the result image.
+2024-09-02 23:07:06,033 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\6f953c7f-ddb7-4d59-89b7-bd5c4d81d7de.png
+2024-09-02 23:07:06,034 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\6f953c7f-ddb7-4d59-89b7-bd5c4d81d7de.png
+2024-09-02 23:07:06,035 - app - INFO - Sending result file to client.
+2024-09-02 23:07:06,036 - app - INFO - Response Status: 200 OK
+2024-09-02 23:12:28,448 - app - INFO - Request URL: http://127.0.0.1:5000/apidocs/
+2024-09-02 23:12:28,449 - app - INFO - Request Method: GET
+2024-09-02 23:12:28,453 - app - INFO - Request Data: b''
+2024-09-02 23:12:28,480 - app - INFO - Response Status: 200 OK
+2024-09-02 23:12:28,508 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui.css
+2024-09-02 23:12:28,510 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-bundle.js
+2024-09-02 23:12:28,511 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-standalone-preset.js
+2024-09-02 23:12:28,511 - app - INFO - Request Method: GET
+2024-09-02 23:12:28,513 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/lib/jquery.min.js
+2024-09-02 23:12:28,515 - app - INFO - Request Method: GET
+2024-09-02 23:12:28,516 - app - INFO - Request Method: GET
+2024-09-02 23:12:28,517 - app - INFO - Request Data: b''
+2024-09-02 23:12:28,518 - app - INFO - Request Method: GET
+2024-09-02 23:12:28,519 - app - INFO - Request Data: b''
+2024-09-02 23:12:28,520 - app - INFO - Request Data: b''
+2024-09-02 23:12:28,523 - app - INFO - Request Data: b''
+2024-09-02 23:12:28,523 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 23:12:28,525 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 23:12:28,528 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 23:12:28,529 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 23:12:28,763 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-09-02 23:12:28,764 - app - INFO - Request Method: GET
+2024-09-02 23:12:28,767 - app - INFO - Request Data: b''
+2024-09-02 23:12:28,769 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 23:12:28,880 - app - INFO - Request URL: http://127.0.0.1:5000/apispec_1.json
+2024-09-02 23:12:28,881 - app - INFO - Request Method: GET
+2024-09-02 23:12:28,883 - app - INFO - Request Data: b''
+2024-09-02 23:12:28,898 - app - INFO - Response Status: 200 OK
+2024-09-02 23:12:28,901 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-09-02 23:12:28,904 - app - INFO - Request Method: GET
+2024-09-02 23:12:28,906 - app - INFO - Request Data: b''
+2024-09-02 23:12:28,909 - app - INFO - Response Status: 304 NOT MODIFIED
+2024-09-02 23:12:44,447 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:12:44,449 - app - INFO - Request Method: POST
+2024-09-02 23:12:44,453 - app - INFO - Request Data: b''
+2024-09-02 23:12:44,455 - app - INFO - Received try-on request.
+2024-09-02 23:12:44,459 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_ht0zqnit.tmp
+2024-09-02 23:12:44,462 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_9ujklubo.tmp
+2024-09-02 23:12:44,464 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_ht0zqnit.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_9ujklubo.tmp
+2024-09-02 23:12:44,465 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:12:44,466 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_ht0zqnit.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_9ujklubo.tmp
+2024-09-02 23:13:23,746 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:13:23,747 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\eb8bbdef3a05e2d09c0c768b6dd3c10476bbfea5e38164dd2747ad74a1d57a72\image.webp
+2024-09-02 23:13:23,749 - app - INFO - API call successful.
+2024-09-02 23:13:23,750 - app - INFO - Saving the result image.
+2024-09-02 23:13:23,752 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\2ec3e905-60de-4b57-920e-7903dbb4a6a2.png
+2024-09-02 23:13:23,753 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\2ec3e905-60de-4b57-920e-7903dbb4a6a2.png
+2024-09-02 23:13:23,753 - app - INFO - Sending result file to client.
+2024-09-02 23:13:23,755 - app - INFO - Response Status: 200 OK
+2024-09-02 23:13:51,274 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:13:51,276 - app - INFO - Request Method: POST
+2024-09-02 23:13:51,279 - app - INFO - Request Data: b''
+2024-09-02 23:13:51,280 - app - INFO - Received try-on request.
+2024-09-02 23:13:51,284 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_s_vs_dl2.tmp
+2024-09-02 23:13:51,289 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_izzbeusp.tmp
+2024-09-02 23:13:51,291 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_s_vs_dl2.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_izzbeusp.tmp
+2024-09-02 23:13:51,291 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:13:51,293 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_s_vs_dl2.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_izzbeusp.tmp
+2024-09-02 23:14:30,988 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:14:30,989 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\566c3e54185167e209eac6cd4c177dd591f850e6e68eabf03d64a7d8b1fea530\image.webp
+2024-09-02 23:14:30,991 - app - INFO - API call successful.
+2024-09-02 23:14:30,992 - app - INFO - Saving the result image.
+2024-09-02 23:14:30,995 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\3cc6d183-9eda-47ec-854a-f7a1c388b91f.png
+2024-09-02 23:14:30,996 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\3cc6d183-9eda-47ec-854a-f7a1c388b91f.png
+2024-09-02 23:14:30,997 - app - INFO - Sending result file to client.
+2024-09-02 23:14:30,998 - app - INFO - Response Status: 200 OK
+2024-09-02 23:17:38,391 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:17:38,393 - app - INFO - Request Method: POST
+2024-09-02 23:17:38,397 - app - INFO - Request Data: b''
+2024-09-02 23:17:38,398 - app - INFO - Received try-on request.
+2024-09-02 23:17:38,402 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_61p4eg9v.tmp
+2024-09-02 23:17:38,407 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_hqc0clxj.tmp
+2024-09-02 23:17:38,408 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_61p4eg9v.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_hqc0clxj.tmp
+2024-09-02 23:17:38,409 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:17:38,410 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_61p4eg9v.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_hqc0clxj.tmp
+2024-09-02 23:18:13,957 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:18:13,958 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\7157d3a1007730decbc7cc092adaa116ddc3ffc2f1c99dc597c0b032dfa67c35\image.webp
+2024-09-02 23:18:13,959 - app - INFO - API call successful.
+2024-09-02 23:18:13,960 - app - INFO - Saving the result image.
+2024-09-02 23:18:13,963 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\f984db33-36fa-49b5-aba2-7d5b095c5c62.png
+2024-09-02 23:18:13,964 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\f984db33-36fa-49b5-aba2-7d5b095c5c62.png
+2024-09-02 23:18:13,965 - app - INFO - Sending result file to client.
+2024-09-02 23:18:13,966 - app - INFO - Response Status: 200 OK
+2024-09-02 23:18:38,248 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:18:38,249 - app - INFO - Request Method: POST
+2024-09-02 23:18:38,254 - app - INFO - Request Data: b''
+2024-09-02 23:18:38,255 - app - INFO - Received try-on request.
+2024-09-02 23:18:38,260 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_lx13zhfv.tmp
+2024-09-02 23:18:38,265 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_cxbsg6rq.tmp
+2024-09-02 23:18:38,265 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_lx13zhfv.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_cxbsg6rq.tmp
+2024-09-02 23:18:38,267 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:18:38,267 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_lx13zhfv.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_cxbsg6rq.tmp
+2024-09-02 23:19:16,555 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:19:16,557 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\9f214acea7be50a7712c91198ab4435de24cb89afa8220e33d6b8b7c52194379\image.webp
+2024-09-02 23:19:16,558 - app - INFO - API call successful.
+2024-09-02 23:19:16,559 - app - INFO - Saving the result image.
+2024-09-02 23:19:16,562 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\8ce0dcdb-69a6-48be-8cde-28d593db1821.png
+2024-09-02 23:19:16,563 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\8ce0dcdb-69a6-48be-8cde-28d593db1821.png
+2024-09-02 23:19:16,565 - app - INFO - Sending result file to client.
+2024-09-02 23:19:16,566 - app - INFO - Response Status: 200 OK
+2024-09-02 23:19:25,941 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:19:25,942 - app - INFO - Request Method: POST
+2024-09-02 23:19:25,947 - app - INFO - Request Data: b''
+2024-09-02 23:19:25,950 - app - INFO - Received try-on request.
+2024-09-02 23:19:25,954 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_4lovqw9f.tmp
+2024-09-02 23:19:25,957 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_ay7km29c.tmp
+2024-09-02 23:19:25,958 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_4lovqw9f.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_ay7km29c.tmp
+2024-09-02 23:19:25,959 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:19:25,960 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_4lovqw9f.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_ay7km29c.tmp
+2024-09-02 23:20:09,988 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:20:09,989 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\c0d17186abff6d101c2d5187a48ffd64def3cf2e4cea72013d9f7aa4c1273a23\image.webp
+2024-09-02 23:20:09,990 - app - INFO - API call successful.
+2024-09-02 23:20:09,991 - app - INFO - Saving the result image.
+2024-09-02 23:20:09,994 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\8acbce73-3443-4e68-acd3-21e3c7df3c47.png
+2024-09-02 23:20:09,995 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\8acbce73-3443-4e68-acd3-21e3c7df3c47.png
+2024-09-02 23:20:09,996 - app - INFO - Sending result file to client.
+2024-09-02 23:20:09,998 - app - INFO - Response Status: 200 OK
+2024-09-02 23:20:12,618 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:20:12,619 - app - INFO - Request Method: POST
+2024-09-02 23:20:12,627 - app - INFO - Request Data: b''
+2024-09-02 23:20:12,629 - app - INFO - Received try-on request.
+2024-09-02 23:20:12,633 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_oz4lmqdx.tmp
+2024-09-02 23:20:12,640 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_twj9lq7p.tmp
+2024-09-02 23:20:12,642 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_oz4lmqdx.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_twj9lq7p.tmp
+2024-09-02 23:20:12,643 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:20:12,644 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_oz4lmqdx.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_twj9lq7p.tmp
+2024-09-02 23:20:53,899 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:20:53,899 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\41a2b02c7fb7ea2e016a30862ec314e752ffd90ace47dda8de6b1319cb1fe1c8\image.webp
+2024-09-02 23:20:53,901 - app - INFO - API call successful.
+2024-09-02 23:20:53,902 - app - INFO - Saving the result image.
+2024-09-02 23:20:53,905 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\ab5d3fca-25b6-435f-b505-09fec9e152a8.png
+2024-09-02 23:20:53,906 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\ab5d3fca-25b6-435f-b505-09fec9e152a8.png
+2024-09-02 23:20:53,907 - app - INFO - Sending result file to client.
+2024-09-02 23:20:53,908 - app - INFO - Response Status: 200 OK
+2024-09-02 23:21:12,330 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:21:12,332 - app - INFO - Request Method: POST
+2024-09-02 23:21:12,337 - app - INFO - Request Data: b''
+2024-09-02 23:21:12,339 - app - INFO - Received try-on request.
+2024-09-02 23:21:12,345 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_1jjl97ev.tmp
+2024-09-02 23:21:12,350 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_a05vy098.tmp
+2024-09-02 23:21:12,352 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_1jjl97ev.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_a05vy098.tmp
+2024-09-02 23:21:12,353 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:21:12,354 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_1jjl97ev.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_a05vy098.tmp
+2024-09-02 23:21:50,690 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:21:50,691 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\9ae23eccea7639fd61e524cbd1553c804d143fc0a65eb702c5e70c4aad4be94b\image.webp
+2024-09-02 23:21:50,692 - app - INFO - API call successful.
+2024-09-02 23:21:50,693 - app - INFO - Saving the result image.
+2024-09-02 23:21:50,696 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\fda87f27-f08a-4b4a-a27e-ab60244a21d6.png
+2024-09-02 23:21:50,698 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\fda87f27-f08a-4b4a-a27e-ab60244a21d6.png
+2024-09-02 23:21:50,698 - app - INFO - Sending result file to client.
+2024-09-02 23:21:50,700 - app - INFO - Response Status: 200 OK
+2024-09-02 23:21:54,938 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:21:54,940 - app - INFO - Request Method: POST
+2024-09-02 23:21:54,943 - app - INFO - Request Data: b''
+2024-09-02 23:21:54,945 - app - INFO - Received try-on request.
+2024-09-02 23:21:54,951 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_d62k0bmj.tmp
+2024-09-02 23:21:54,955 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_jdbc5lwv.tmp
+2024-09-02 23:21:54,956 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_d62k0bmj.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_jdbc5lwv.tmp
+2024-09-02 23:21:54,957 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:21:54,958 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_d62k0bmj.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_jdbc5lwv.tmp
+2024-09-02 23:22:25,033 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:22:25,034 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\8214e018821410ab110bee03a145736fe54220c7201b2e6502bf8b1b64cfc2cd\image.webp
+2024-09-02 23:22:25,035 - app - INFO - API call successful.
+2024-09-02 23:22:25,035 - app - INFO - Saving the result image.
+2024-09-02 23:22:25,039 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\3e5b2d00-72ad-420c-86fb-29f233d1a8f7.png
+2024-09-02 23:22:25,040 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\3e5b2d00-72ad-420c-86fb-29f233d1a8f7.png
+2024-09-02 23:22:25,041 - app - INFO - Sending result file to client.
+2024-09-02 23:22:25,042 - app - INFO - Response Status: 200 OK
+2024-09-02 23:22:37,083 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:22:37,085 - app - INFO - Request Method: POST
+2024-09-02 23:22:37,092 - app - INFO - Request Data: b''
+2024-09-02 23:22:37,093 - app - INFO - Received try-on request.
+2024-09-02 23:22:37,097 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_coejz67x.tmp
+2024-09-02 23:22:37,100 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_1fnlcg8s.tmp
+2024-09-02 23:22:37,101 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_coejz67x.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_1fnlcg8s.tmp
+2024-09-02 23:22:37,102 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:22:37,104 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_coejz67x.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_1fnlcg8s.tmp
+2024-09-02 23:23:07,245 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:23:07,246 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\0fa9c077caf985b624209d8b6223c9d734d9eac2144b049fda4bbed342d7b5c8\image.webp
+2024-09-02 23:23:07,247 - app - INFO - API call successful.
+2024-09-02 23:23:07,248 - app - INFO - Saving the result image.
+2024-09-02 23:23:07,250 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\7e35c93c-8653-48b8-b7e7-e62b294019b5.png
+2024-09-02 23:23:07,251 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\7e35c93c-8653-48b8-b7e7-e62b294019b5.png
+2024-09-02 23:23:07,252 - app - INFO - Sending result file to client.
+2024-09-02 23:23:07,254 - app - INFO - Response Status: 200 OK
+2024-09-02 23:23:18,294 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:23:18,296 - app - INFO - Request Method: POST
+2024-09-02 23:23:18,300 - app - INFO - Request Data: b''
+2024-09-02 23:23:18,302 - app - INFO - Received try-on request.
+2024-09-02 23:23:18,308 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_06s1vvbo.tmp
+2024-09-02 23:23:18,313 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image__6y73inj.tmp
+2024-09-02 23:23:18,314 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_06s1vvbo.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image__6y73inj.tmp
+2024-09-02 23:23:18,315 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:23:18,316 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_06s1vvbo.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image__6y73inj.tmp
+2024-09-02 23:23:49,309 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:23:49,309 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\d1598a3babe4b2a43c64077885e7eda038c963e1838912a53e8060df475a0230\image.webp
+2024-09-02 23:23:49,311 - app - INFO - API call successful.
+2024-09-02 23:23:49,312 - app - INFO - Saving the result image.
+2024-09-02 23:23:49,315 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\8aaf4b10-61e2-4a01-9b15-ccb33eaee66a.png
+2024-09-02 23:23:49,316 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\8aaf4b10-61e2-4a01-9b15-ccb33eaee66a.png
+2024-09-02 23:23:49,317 - app - INFO - Sending result file to client.
+2024-09-02 23:23:49,318 - app - INFO - Response Status: 200 OK
+2024-09-02 23:23:54,156 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:23:54,157 - app - INFO - Request Method: POST
+2024-09-02 23:23:54,162 - app - INFO - Request Data: b''
+2024-09-02 23:23:54,163 - app - INFO - Received try-on request.
+2024-09-02 23:23:54,166 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_jke2rw5n.tmp
+2024-09-02 23:23:54,171 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_uke8gpcm.tmp
+2024-09-02 23:23:54,173 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_jke2rw5n.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_uke8gpcm.tmp
+2024-09-02 23:23:54,173 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:23:54,175 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_jke2rw5n.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_uke8gpcm.tmp
+2024-09-02 23:24:23,598 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:24:23,599 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\03c47659685645e077ba92fd3f17d848939ec3aebad1320ac553df26e83eaac8\image.webp
+2024-09-02 23:24:23,600 - app - INFO - API call successful.
+2024-09-02 23:24:23,600 - app - INFO - Saving the result image.
+2024-09-02 23:24:23,604 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\b170f762-cf71-4b6a-9e04-da52c3b651c5.png
+2024-09-02 23:24:23,605 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\b170f762-cf71-4b6a-9e04-da52c3b651c5.png
+2024-09-02 23:24:23,606 - app - INFO - Sending result file to client.
+2024-09-02 23:24:23,606 - app - INFO - Response Status: 200 OK
+2024-09-02 23:24:25,875 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:24:25,877 - app - INFO - Request Method: POST
+2024-09-02 23:24:25,881 - app - INFO - Request Data: b''
+2024-09-02 23:24:25,883 - app - INFO - Received try-on request.
+2024-09-02 23:24:25,888 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_s4lbp2di.tmp
+2024-09-02 23:24:25,891 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_kcia8tzw.tmp
+2024-09-02 23:24:25,893 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_s4lbp2di.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_kcia8tzw.tmp
+2024-09-02 23:24:25,893 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:24:25,895 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_s4lbp2di.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_kcia8tzw.tmp
+2024-09-02 23:24:55,318 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:24:55,319 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\2aa68ae3f03716ef92305ced40829f792bbcce60e4e4ac3aa1ad084c56c2cab5\image.webp
+2024-09-02 23:24:55,320 - app - INFO - API call successful.
+2024-09-02 23:24:55,321 - app - INFO - Saving the result image.
+2024-09-02 23:24:55,324 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\4fc113c0-e7e4-4450-a679-52c8df76802b.png
+2024-09-02 23:24:55,325 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\4fc113c0-e7e4-4450-a679-52c8df76802b.png
+2024-09-02 23:24:55,325 - app - INFO - Sending result file to client.
+2024-09-02 23:24:55,327 - app - INFO - Response Status: 200 OK
+2024-09-02 23:24:58,227 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:24:58,229 - app - INFO - Request Method: POST
+2024-09-02 23:24:58,235 - app - INFO - Request Data: b''
+2024-09-02 23:24:58,236 - app - INFO - Received try-on request.
+2024-09-02 23:24:58,240 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_nvhhc_s5.tmp
+2024-09-02 23:24:58,246 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image__oek2034.tmp
+2024-09-02 23:24:58,247 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_nvhhc_s5.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image__oek2034.tmp
+2024-09-02 23:24:58,248 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:24:58,249 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_nvhhc_s5.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image__oek2034.tmp
+2024-09-02 23:25:30,513 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:25:30,514 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\c8e78b4d8c51fad652447091acdfbda364d28619ba5938ab31b4f03ecd48093f\image.webp
+2024-09-02 23:25:30,515 - app - INFO - API call successful.
+2024-09-02 23:25:30,516 - app - INFO - Saving the result image.
+2024-09-02 23:25:30,518 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\027da3e9-7de9-4a82-bff3-1c4c1b1d454e.png
+2024-09-02 23:25:30,519 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\027da3e9-7de9-4a82-bff3-1c4c1b1d454e.png
+2024-09-02 23:25:30,521 - app - INFO - Sending result file to client.
+2024-09-02 23:25:30,522 - app - INFO - Response Status: 200 OK
+2024-09-02 23:26:01,520 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:26:01,522 - app - INFO - Request Method: POST
+2024-09-02 23:26:01,526 - app - INFO - Request Data: b''
+2024-09-02 23:26:01,528 - app - INFO - Received try-on request.
+2024-09-02 23:26:01,532 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_ba0zcb43.tmp
+2024-09-02 23:26:01,535 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_fiyv8ef2.tmp
+2024-09-02 23:26:01,538 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_ba0zcb43.tmp, Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_fiyv8ef2.tmp
+2024-09-02 23:26:01,539 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:26:01,540 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_ba0zcb43.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_fiyv8ef2.tmp
+2024-09-02 23:26:38,280 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:26:38,281 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\e39cdd8e518c958a31320cb2e418f9d4c2dee17980db6bc289f9f99e161fd83f\image.webp
+2024-09-02 23:26:38,282 - app - INFO - API call successful.
+2024-09-02 23:26:38,283 - app - INFO - Saving the result image.
+2024-09-02 23:26:38,284 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\5edb492b-a56b-435f-a6d2-5d475dec5ea9.png
+2024-09-02 23:26:38,286 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\5edb492b-a56b-435f-a6d2-5d475dec5ea9.png
+2024-09-02 23:26:38,287 - app - INFO - Sending result file to client.
+2024-09-02 23:26:38,289 - app - INFO - Response Status: 200 OK
+2024-09-02 23:55:20,539 - app - INFO - Request URL: http://127.0.0.1:5000/tryon
+2024-09-02 23:55:20,540 - app - INFO - Request Method: POST
+2024-09-02 23:55:20,545 - app - INFO - Request Data: b''
+2024-09-02 23:55:20,546 - app - INFO - Received try-on request.
+2024-09-02 23:55:20,550 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_0hine226.tmp
+2024-09-02 23:55:20,553 - app - INFO - Saved uploaded file to: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_fqba1g4q.tmp
+2024-09-02 23:55:20,554 - app - INFO - Person image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_0hine226.tmp
+2024-09-02 23:55:20,556 - app - INFO - Garment image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_fqba1g4q.tmp
+2024-09-02 23:55:20,557 - app - INFO - Calling virtual try-on API.
+2024-09-02 23:55:20,561 - app - INFO - Calling Gradio API with person_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\person_image_0hine226.tmp, garment_img_path: C:\Users\dagac\Desktop\github\Virtual-Try-On\temp\garment_image_fqba1g4q.tmp
+2024-09-02 23:55:56,728 - app - INFO - API returned result of type: <class 'str'>
+2024-09-02 23:55:56,730 - app - INFO - API returned a file path: C:\Users\dagac\AppData\Local\Temp\gradio\b3e9e3c0bdd0ff41b5fdc165f6f4177ac4c8b30e42d80df49079ccb2328a6a9d\image.webp
+2024-09-02 23:55:56,732 - app - INFO - API call successful.
+2024-09-02 23:55:56,734 - app - INFO - Saving the result image.
+2024-09-02 23:55:56,736 - app - INFO - Result saved to: C:\Users\dagac\Desktop\github\Virtual-Try-On\results\be129960-4ff0-4fea-b3fc-d58248b58182.png
+2024-09-02 23:55:56,739 - app - INFO - Result image saved to C:\Users\dagac\Desktop\github\Virtual-Try-On\results\be129960-4ff0-4fea-b3fc-d58248b58182.png
+2024-09-02 23:55:56,741 - app - INFO - Sending result file to client.
+2024-09-02 23:55:56,744 - app - INFO - Response Status: 200 OK
