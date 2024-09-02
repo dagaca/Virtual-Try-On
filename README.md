@@ -41,11 +41,12 @@ This is a Flask-based API application that enables users to perform a virtual tr
    pip install -r requirements.txt
 
 4. Set Up Configuration:
-   - Create a .env file in the root directory and configure your environment variables as needed. Example:
-    RESULT_FOLDER=results
-    TEMP_FOLDER=temp
-    LOG_DIR=logs
-    LOG_FILE=app.log
+   - Create a .env file in the root directory and configure your environment variables as needed.
+   - Example:
+       - RESULT_FOLDER=results
+       - TEMP_FOLDER=temp
+       - LOG_DIR=logs
+       - LOG_FILE=app.log
 
 5. Run the Application:
    flask run
