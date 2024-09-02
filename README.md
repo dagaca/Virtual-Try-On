@@ -84,6 +84,10 @@ This is a Flask-based API application that enables users to perform a virtual tr
   - 400: Bad Request (e.g., missing required files).
   - 500: Internal Server Error (e.g., file not found, unexpected errors).
 
+## Acknowledgments
+
+This application uses the Kolors Virtual Try-On API provided by the Kwai team, available on Hugging Face Spaces. You can find more information and access the API here: [Kolors Virtual Try-On](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On).
+
 ## Logging
 
 - The application logs important events, such as requests received, file paths, and errors, using Python's built-in logging module.
