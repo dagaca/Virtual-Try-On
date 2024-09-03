@@ -85,6 +85,14 @@ This is a Flask-based API application that enables users to perform a virtual tr
   - 400: Bad Request (e.g., missing required files).
   - 500: Internal Server Error (e.g., file not found, unexpected errors).
 
+## Virtual Try-On Experiments
+
+This project involves conducting various professional virtual try-on experiments using my own photos and different garment images. The visual representation of these experiments can be seen in the image below.
+
+All detailed results of these experiments are stored and can be accessed in the `results` folder.
+
+![Virtual Try-On Visual]("C:\Users\dagac\Downloads\virtual-tryon-collage.png")
+
 ## Acknowledgments
 
 This application uses the Kolors Virtual Try-On API provided by the Kwai team, available on Hugging Face Spaces. You can find more information and access the API here: [Kolors Virtual Try-On](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On).
