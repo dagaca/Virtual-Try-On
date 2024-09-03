@@ -91,7 +91,7 @@ This project involves conducting various professional virtual try-on experiments
 
 All detailed results of these experiments are stored and can be accessed in the `results` folder.
 
-![Virtual Try-On Visual]("C:\Users\dagac\Downloads\virtual-tryon-collage.png")
+![Virtual Try-On Visual](images/virtual-tryon-collage.png)
 
 ## Acknowledgments
 
