@@ -87,11 +87,21 @@ This is a Flask-based API application that enables users to perform a virtual tr
 
 ## Virtual Try-On Experiments
 
-This project involves conducting various professional virtual try-on experiments using my own photos and different garment images. The visual representation of these experiments can be seen in the image below.
+This project involves conducting various professional virtual try-on experiments using my own photos and different garment images. For this project, I used two personal photos and experimented with six different garment images. 
 
-All detailed results of these experiments are stored and can be accessed in the `results` folder.
+### Input Photos and Garments
 
-![Virtual Try-On Visual](images/virtual-tryon-collage.png)
+The first image below shows the two personal photos and six different garment images used in the experiments. Each photo was tested with each garment to explore the versatility of the virtual try-on system.
+
+![Input Photos and Garments](images/input-photos-and-garments.png)
+
+### Experiment Results
+
+The following image illustrates the results of these virtual try-on experiments. It displays how each of the personal photos looks when combined with the different garments, demonstrating the functionality and effectiveness of the virtual try-on system.
+
+![Virtual Try-On Results](images/virtual-tryon-results.png)
+
+All detailed results of these experiments are stored and can be accessed in the `results` folder. The results folder contains all the individual outcomes of the combinations tested during the experiments.
 
 ## Acknowledgments
 
