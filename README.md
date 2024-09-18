@@ -30,9 +30,11 @@ This is a Flask-based API application that enables users to perform a virtual tr
 ## Installation
 
 1. Clone the Repository:
+   ```bash
    git clone <https://github.com/dagaca/virtual-try-on.git>
    cd <virtual-try-on>
-
+   ```
+   
 3. Create and Activate a Virtual Environment:
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
