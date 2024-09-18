@@ -35,14 +35,18 @@ This is a Flask-based API application that enables users to perform a virtual tr
    cd <virtual-try-on>
    ```
    
-3. Create and Activate a Virtual Environment:
+2. Create and Activate a Virtual Environment:
+   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-4. Install the Dependencies:
+   ```
+   
+3. Install the Dependencies:
+   ```bash
    pip install -r requirements.txt
-
-5. Set Up Configuration:
+   ```
+   
+4. Set Up Configuration:
    - Create a .env file in the root directory and configure your environment variables as needed.
    - Example:
        - RESULT_FOLDER=results
@@ -50,11 +54,13 @@ This is a Flask-based API application that enables users to perform a virtual tr
        - LOG_DIR=logs
        - LOG_FILE=app.log
 
-6. Run the Application:
+5. Run the Application:
+   ```bash
    flask run
 
    The application will start running on http://127.0.0.1:5000/.
-
+   ```
+   
 ## Usage
 
 - Use a tool like Postman or curl to interact with the API endpoints.
