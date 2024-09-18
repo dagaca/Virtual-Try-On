@@ -30,17 +30,17 @@ This is a Flask-based API application that enables users to perform a virtual tr
 ## Installation
 
 1. Clone the Repository:
-   git clone https://github.com/dagaca/virtual-try-on.git
-   cd virtual-try-on
+   git clone <https://github.com/dagaca/virtual-try-on.git>
+   cd <virtual-try-on>
 
-2. Create and Activate a Virtual Environment:
+3. Create and Activate a Virtual Environment:
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. Install the Dependencies:
+4. Install the Dependencies:
    pip install -r requirements.txt
 
-4. Set Up Configuration:
+5. Set Up Configuration:
    - Create a .env file in the root directory and configure your environment variables as needed.
    - Example:
        - RESULT_FOLDER=results
@@ -48,7 +48,7 @@ This is a Flask-based API application that enables users to perform a virtual tr
        - LOG_DIR=logs
        - LOG_FILE=app.log
 
-5. Run the Application:
+6. Run the Application:
    flask run
 
    The application will start running on http://127.0.0.1:5000/.
